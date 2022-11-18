@@ -1,1 +1,31 @@
+img {
+    margin: 25px;
+    max-width: 65%;
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+  }
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;;
+}
+
+#mainHeading{
+    font-size: 300%;
+    font-style: oblique;
+    color: red
+}
+
+body{
+    background-color:  #ffb366;
+    text-align: center;
+    margin: 8px;
+    display: block;
+}
+
+p.funParagraph{
+    color: green
+}
+
+
 /* Write your CSS here! */
